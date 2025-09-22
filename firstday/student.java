@@ -1,3 +1,4 @@
+package firstday;
 public class OOP {
 
     public static class User {
