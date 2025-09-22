@@ -1,7 +1,7 @@
 package basic_oop;
 
 
-///here we are extending index class with ex2 class that we made
+///here we are extending index class with ex2 class that we made this is call INHERITENCE 
     ///so whatever we have on ex2 class are here to use 
 
 public class index extends ex2{
@@ -26,7 +26,7 @@ public class index extends ex2{
 
     /// this is overriding the method from ex2 class that we are currently extending to 
     /// this is printing nothing, to where if we werent overdding it will print whatever sayHi say in ex2 class
-    public void sayHi(){
+    public void sayHi(){    // this is call a subclass of the superclass ex2 
 
     }
     
