@@ -35,7 +35,21 @@
 
 #### 📚 What I Learned
 **New Concepts:**
-- 
+
+**This is how to run java program w packages**
+-   1. Compile (from inside basic_oop folder)
+        javac *.java
+
+-   2. Go to parent directory
+        cd ..
+
+-   3. Run with package name
+        java basic_oop.LocationTester
+
+    *( Why this is necessary:
+    Package declaration: package basic_oop; tells Java this class belongs to the basic_oop package
+    Java expects: The package structure to match the directory structure
+    From parent directory: Java can find LocationTester.class)*
 
 **Code Examples:**
 ```java
