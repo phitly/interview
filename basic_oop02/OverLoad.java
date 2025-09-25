@@ -1,9 +1,13 @@
-package basic_oop02;
-
 public class OverLoad {
     
     // Method overloading - same method name, different parameters
-    
+    /// Compile time polymorphism
+        ///     compiler decides which method to call based on args passed
+        /// How it choose?:
+            /// Number of arguments
+            /// Type of arguments
+            /// Order of arguments
+            
     // Method 1: Add two integers
     public int add(int a, int b) {
         return a + b;
