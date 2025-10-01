@@ -7,7 +7,7 @@
 
 #### 📚 What I Learned
 **New Concepts:**
-Java class design follows a few core principles:
+**Java class design follows a few core principles:**
 	1.	Cohesion
 Each class should represent a single concept (e.g., Car, BankAccount). Don’t mix unrelated responsibilities.
 	2.	Encapsulation
