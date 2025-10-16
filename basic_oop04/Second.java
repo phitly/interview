@@ -6,4 +6,4 @@ public class Second {
     }
 }
 /// this is the second file with the main method
-/// it runs the code in the Main class
+/// it runs the code in the Main classI
