@@ -1,3 +1,4 @@
+package basic_oop06;
 public class Animal {
     // memeber vars
     private String name;

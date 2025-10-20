@@ -1,3 +1,4 @@
+package basic_oop06;
 import java.util.Scanner;
 
 public class AnimalFarm {
